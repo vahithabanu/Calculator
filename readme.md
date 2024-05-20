@@ -22,4 +22,8 @@
 
 >open link:http://127.0.0.1:3001/index.html
 
+## Output Screenshot:
+
+  ![Output Screenshots](./assets/output.png)
+
  
